@@ -79,6 +79,7 @@ const Box = styled.div`
    justify-content: center;
    flex-direction: column;
    gap: 20px;
+   gap: 20px;
 
    button {
       cursor: pointer;
