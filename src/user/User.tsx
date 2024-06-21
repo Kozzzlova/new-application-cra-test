@@ -11,6 +11,7 @@ export const User = () => {
          <p>developer/modal branch commit 1</p>
          <p>developer/popup branch commit 1</p>
          <p>developer/popup branch commit 2</p>
+         <p>some code</p>
          <p>code after stashes</p>
       </div>
    );
